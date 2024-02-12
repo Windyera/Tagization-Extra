@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Tag triggers that shouldn't be in Tagization",
+        "pack_format": 26
+    }
+}

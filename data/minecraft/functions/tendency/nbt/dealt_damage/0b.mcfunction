@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:trident] run scoreboard players operation @s minecraft.last.nbt.dealt_damage = @s minecraft.nbt.dealt_damage

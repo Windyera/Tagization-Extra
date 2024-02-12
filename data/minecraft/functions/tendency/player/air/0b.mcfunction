@@ -1,0 +1,1 @@
+execute as @a run scoreboard players operation @s minecraft.last.player.air = @s minecraft.player.air

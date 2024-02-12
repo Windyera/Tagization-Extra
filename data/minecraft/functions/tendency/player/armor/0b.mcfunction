@@ -1,0 +1,1 @@
+execute as @a run scoreboard players operation @s minecraft.last.player.armor = @s minecraft.player.armor

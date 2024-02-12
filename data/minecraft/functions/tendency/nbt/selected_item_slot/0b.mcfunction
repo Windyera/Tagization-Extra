@@ -1,0 +1,1 @@
+execute as @a run scoreboard players operation @s minecraft.last.nbt.selected_item_slot = @s minecraft.nbt.selected_item_slot
